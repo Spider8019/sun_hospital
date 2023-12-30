@@ -1,0 +1,17 @@
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+
+.doctorCard .p-card-content {
+  padding: 0 !important;
+}
+
+@layer components {
+  .navbarLinkPending {
+    @apply no-underline text-black font-semibold;
+  }
+  .navbarLinkActive {
+    @apply no-underline text-baseColor font-bold;
+  }
+  
+}
