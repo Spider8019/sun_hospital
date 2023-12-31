@@ -17,7 +17,7 @@ const WhyUs = () => {
       <div className="w-full h-80 overflow-hidden">
         <img
           className="w-full h-full rounded-xl object-cover"
-          src="https://www.apollohospitals.com/wp-content/themes/apollohospitals/assets-v3/images/whychoseapollo_ah.webp"
+          src="https://i.pinimg.com/originals/7f/c6/ad/7fc6adc5b6d43fc28df9b483d4e46abc.png"
           alt="Why us banner"
         />
       </div>
