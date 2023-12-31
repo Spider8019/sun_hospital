@@ -17,7 +17,7 @@ const AboutUs = () => {
       </div>
       <div className="text-center">
         <p className="text-4xl font-semibold" style={{ lineHeight: 0 }}>
-          40+
+          100+
         </p>
         <span>Treated ever</span>
       </div>

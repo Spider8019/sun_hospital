@@ -4,29 +4,33 @@ import { Carousel } from 'primereact/carousel'
 export default function ResponsiveDemo() {
   const reviews = [
     {
-      by: 'Aman Pratap Singh',
-      content:
-        'Dr. Subhaprakash Sanyal is very nice, cooperative hematologist in Mumbai. Even at night time he do respond to our queries. He is very supportive, and helpful. Thank you so much sir and fortis hospital mulund.',
+      by:'Radhe Shyam Singh',
+      content:'Piles provided relief with effective treatment. Quick results, reduced discomfort. A reliable solution for a common health concern. Recommended.'
     },
     {
-      by: 'Aman Pratap Singh',
+      by: 'Bhaskar Raj',
       content:
-        'Dr. Subhaprakash Sanyal is very nice, cooperative hematologist in Mumbai. Even at night time he do respond to our queries. He is very supportive, and helpful. Thank you so much sir and fortis hospital mulund.',
+        'Sun hspital services and hospitality is very good',
     },
     {
-      by: 'Aman Pratap Singh',
+      by: 'seema pandey',
       content:
-        'Dr. Subhaprakash Sanyal is very nice, cooperative hematologist in Mumbai. Even at night time he do respond to our queries. He is very supportive, and helpful. Thank you so much sir and fortis hospital mulund.',
+        'Good hospital ND all staff',
     },
     {
-      by: 'Aman Pratap Singh',
+      by: 'Go Bright',
       content:
-        'Dr. Subhaprakash Sanyal is very nice, cooperative hematologist in Mumbai. Even at night time he do respond to our queries. He is very supportive, and helpful. Thank you so much sir and fortis hospital mulund.',
+        'Perfect hospital for treatment',
     },
     {
-      by: 'Aman Pratap Singh',
+      by: 'Manish Srivastava',
       content:
-        'Dr. Subhaprakash Sanyal is very nice, cooperative hematologist in Mumbai. Even at night time he do respond to our queries. He is very supportive, and helpful. Thank you so much sir and fortis hospital mulund.',
+        'Best of Best',
+    },
+    {
+      by: 'seema pandey',
+      content:
+        'Good hospital ND all staff',
     },
   ]
   const responsiveOptions = [

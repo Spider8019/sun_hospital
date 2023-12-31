@@ -34,14 +34,15 @@ const VideoPanel = ({ arrayList, viewAllLink }) => {
         })}
       </div>
       {isIframeVisible && (
-        <div className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center">
+        <div className="z-100 fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center">
           <div className="bg-white rounded-lg">
             <i
               className="absolute top-2 right-2 text-white hover:text-gray-900 pi pi-times"
               onClick={() => setIsIframeVisible(false)}
             ></i>
             <iframe
-              width="w-[90vw] sm:w-[860px]"
+              // width="w-[800px]"
+              className="w-[80vw] z-20"
               height="500"
               src={link}
               title={link}
