@@ -2,7 +2,8 @@
   "hospital_name": "Sun Hospital",
   "hospital_address": "Navin Mandi Gate No. 2, Lucknow Basti Highway Cut, Near Kaushalpuri Faizabad-Ayodhya(U.P.) 224001",
   "hospital_contact": "7355788655",
-  "developers":"Developed by Spydars",
+  "developers": "Developed by Spydars",
+
   "navigator": {
     "contact_us_p1": "Contact",
     "contact_us_p2": "Us",
@@ -33,6 +34,10 @@
     "our_videos": {
       "heading": "Our Videos",
       "view_all": "View All"
+    },
+    "happy_moments": {
+      "heading_p1": "Happy",
+      "heading_p2": "Moments"
     }
   }
 }
