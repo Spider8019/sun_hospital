@@ -18,7 +18,7 @@ const WhyUs = () => {
         <img
           className="w-full h-full rounded-xl object-cover"
           src="https://i.pinimg.com/originals/7f/c6/ad/7fc6adc5b6d43fc28df9b483d4e46abc.png"
-          alt="Why us banner"
+          alt="Why us banner Sun Hospital Ayodhya"
         />
       </div>
     </div>
