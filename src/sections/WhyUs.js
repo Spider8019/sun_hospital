@@ -17,7 +17,7 @@ const WhyUs = () => {
       <div className="w-full h-80 overflow-hidden">
         <img
           className="w-full h-full rounded-xl object-cover"
-          src="https://i.pinimg.com/originals/7f/c6/ad/7fc6adc5b6d43fc28df9b483d4e46abc.png"
+          src="https://i.pinimg.com/564x/83/d0/5d/83d05dff0a39c306a825f33bf441e132.jpg"
           alt="Why us banner Sun Hospital Ayodhya"
         />
       </div>

@@ -4,34 +4,13 @@ import { Carousel } from 'primereact/carousel'
 export default function ResponsiveDemo() {
   const reviews = [
     {
-      by:'Radhe Shyam Singh',
-      content:'Piles provided relief with effective treatment. Quick results, reduced discomfort. A reliable solution for a common health concern. Recommended.'
+      by:'Aman Pratap Singh 1',
+      content:'Discovering Anilom has been a profound experience for me. The spiritual journey they offer is both enlightening and empowering. Their dedication to spreading positivity and compassion is truly inspiring. I highly recommend [Charitism Website] to anyone seeking spiritual growth and a deeper connection to themselves and the world around them.'
     },
     {
-      by: 'Bhaskar Raj',
-      content:
-        'Sun hspital services and hospitality is very good',
-    },
-    {
-      by: 'seema pandey',
-      content:
-        'Good hospital ND all staff',
-    },
-    {
-      by: 'Go Bright',
-      content:
-        'Perfect hospital for treatment',
-    },
-    {
-      by: 'Manish Srivastava',
-      content:
-        'Best of Best',
-    },
-    {
-      by: 'seema pandey',
-      content:
-        'Good hospital ND all staff',
-    },
+      by:'Aman Pratap Singh 1',
+      content:'Discovering Anilom has been a profound experience for me. The spiritual journey they offer is both enlightening and empowering. Their dedication to spreading positivity and compassion is truly inspiring. I highly recommend [Charitism Website] to anyone seeking spiritual growth and a deeper connection to themselves and the world around them.'
+    }
   ]
   const responsiveOptions = [
     {

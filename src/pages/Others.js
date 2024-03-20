@@ -4,14 +4,14 @@ import ContactUs from '../sections/ContactUs'
 
 const Others = () => {
   return (
-    <React.Fragment>
-      <div className="sm:p-20" id="contact">
+    <div className='flex flex-col-reverse sm:flex-col '>
+      <div className="sm:p-20 p-4" id="contact">
         <ContactUs />
       </div>
-      <div className="sm:p-20" id="privacyPolicy">
+      <div className="sm:p-20 p-4" id="privacyPolicy">
         <PrivacyPolicy />
       </div>
-    </React.Fragment>
+    </div>
   )
 }
 

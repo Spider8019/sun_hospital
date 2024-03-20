@@ -1,9 +1,9 @@
 const youtubeVideos = [
   {
-    link: 'https://www.youtube.com/embed/KOJOMPp2Ru4?si=1zQeTsq5F4pW-0ag',
+    link: 'https://www.youtube.com/embed/CCDsMF-Icqs?si=QRTO4Lx5I2ClR26V',
     thumbnail:
-      'https://images.pexels.com/photos/7653122/pexels-photo-7653122.jpeg?auto=compress&cs=tinysrgb&w=800',
-    title: 'Sun Hospital Corporate World',
+      'https://i.pinimg.com/564x/38/5c/3d/385c3df2e6d74d3731223a35735a5bb6.jpg',
+    title: 'Ayodhya Deepotsav 2022',
   },
   // {
   //   thumbnail:

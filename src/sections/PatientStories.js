@@ -9,7 +9,8 @@ const PatientStories = () => {
         <PatientReviews />
       </div>
       <div className='text-center sm:text-right'>
-        <p className="text-xl font-semibold">Our Patient's Stories</p>
+        <p className="text-xl font-semibold">Social Recognition</p>
+        <p>Our unique model has been recognized by more than 10 social influencers. Some celebrities also came forward to provide a helping hand to those in need.</p>
         <Button label={'View All'} outlined />
       </div>
     </div>

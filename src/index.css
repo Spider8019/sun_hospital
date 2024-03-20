@@ -6,9 +6,30 @@
 @import "primeicons/primeicons.css";
 @import "primereact/resources/primereact.css";
 
-body{
-    margin:0;
-    padding: 0;
-    box-sizing: border-box;
-    background-color: #ddd;
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #ddd;
+}
+
+.limit5 {
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.p-button,.p-badge{
+  background:#ff7f0f !important
+}
+.p-button-label{
+  /* color:white !important; */
+}
+
+.p-button-outlined{
+  background:transparent !important;
+  border-color:#ff7f0f !important;
+  color:#ff7f0f !important;
+
 }

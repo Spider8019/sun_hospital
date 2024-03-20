@@ -1,7 +1,7 @@
 {
-  "hospital_name": "Sun Hospital",
-  "hospital_address": "Navin Mandi Gate No. 2, Lucknow Basti Highway Cut, Near Kaushalpuri Faizabad-Ayodhya(U.P.) 224001",
-  "hospital_contact": "7355788655",
+  "hospital_name": "Anilom",
+  "hospital_address": "Faizabad-Ayodhya(U.P.) 224001",
+  "hospital_contact": "9660270277",
   "developers": "Developed by Spydars",
 
   "navigator": {
@@ -14,22 +14,22 @@
   "heading": {
     "stay_in_touch": "Stay in touch",
     "change_language": "Change Language",
-    "all_rights_reserved": "© 2024 Sun Hospital. All Rights Reserved."
+    "all_rights_reserved": "© 2024 Anilom. All Rights Reserved."
   },
   "home": {
-    "banner_heading": "Healthcare for Good Today. Tomorrow. Always",
+    "banner_heading": "Donate with 100% transparency",
     "services": {
       "heading_p1": "Our",
-      "heading_p2": "Services",
+      "heading_p2": "Campaigns",
       "body_banner": "Admission facility, all types of operations, delivery, nebulizer or vaccine for children, gynecologist, cardiologist, X-ray, pediatrician, Chhaar Sutra, Bhagandra, C.O.P.D., I.L.D. and chest related facilities and all pathology tests or ambulance facilities."
     },
     "why_us": {
-      "heading": "Why Choose",
-      "body": "Welcome to Hospital, where your health is our priority. Choosing the right healthcare provider is a significant decision, and we want to assure you that our hospital is committed to providing exceptional care and support to you and your loved ones. At Sun Hospital, we stand out for several reasons. Our team comprises dedicated and experienced healthcare professionals who are passionate about your well-being. We offer a comprehensive range of medical services, from routine check-ups to specialized treatments, all delivered with the latest in medical technology and a patient-centric approach."
+      "heading": "About",
+      "body": "Our organization, dedicated to the preservation of local artistry and community empowerment, invites you to join us in a unique initiative. We aim to support local pot makers by encouraging donations of diyas, traditional clay lamps. These diyas not only illuminate our homes but also symbolize hope, positivity, and unity within our communities.\n\nBy donating diyas, you contribute to the livelihood of these skilled artisans, helping them sustain their craft and pass it on to future generations. Your support not only helps preserve a rich cultural heritage but also promotes sustainability by encouraging the use of eco-friendly materials. "
     },
     "your_doctors": {
-      "heading_p1": "Your",
-      "heading_p2": "Doctors"
+      "heading_p1": "Our",
+      "heading_p2": "Products"
     },
     "our_videos": {
       "heading": "Our Videos",

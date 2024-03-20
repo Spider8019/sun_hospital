@@ -4,11 +4,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        baseColor: '#6366F1',
+        primary: '#FF7F0F',
+        baseColor: '#FF7F0F',
+        DEFAULT:"#FF7F0F"
       },
-      fontSize:{
-        default:'1.1rem'
-      }
+      fontSize: {
+        default: '1.1rem',
+      },
     },
   },
   plugins: [],

@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import StayInTouch from '../components/socialmedia/StayInTouch'
 import { Link } from 'react-router-dom'
@@ -6,10 +6,12 @@ import Switcher from '../components/languages/Switcher'
 
 const Footer = () => {
   const { t } = useTranslation()
+  const [email, setEmail] = useState('')
+  const [message, setMessage] = useState('')
 
   return (
     <div className="p-8 sm:p-20 bg-white">
-      <div className="grid grid-cols-1 sm:grid-cols-[auto,1fr] gap-8">
+      <div className="grid grid-cols-1 sm:grid-cols-[auto,auto,1fr] gap-8">
         <div className="grid grid-cols-1 sm:grid-cols-[auto,auto] gap-8">
           <iframe
             title="Hospital Map"
@@ -27,6 +29,22 @@ const Footer = () => {
               {t('hospital_address')}
             </p>
           </div>
+        </div>
+        <div>
+          <form method="POST" action="https://formspree.io/f/mrgnakjg" className='flex flex-col gap-4 '>
+            <input type="email" placeholder="Email" />
+            <textarea
+              type="text"
+              placeholder="Enter your message"
+              cols="40"
+              rows="10"
+              onChange={(e) => setEmail(e)}
+              name="Message"
+              autoComplete="off"
+              required
+            />
+            <input type="submit" value="Submit" className='bg-baseColor p-2 border-none rounded-sm text-white shadow-sm'/>
+          </form>
         </div>
         <div className="flex flex-col items-center sm:items-end text-center sm:text-right">
           <StayInTouch />
@@ -47,7 +65,9 @@ const Footer = () => {
             {t('developers')}
           </Link>
         </div>
-        <p className='text-center sm:text-right'>{t('heading.all_rights_reserved')}</p>
+        <p className="text-center sm:text-right">
+          {t('heading.all_rights_reserved')}
+        </p>
       </div>
     </div>
   )

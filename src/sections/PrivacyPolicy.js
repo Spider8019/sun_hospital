@@ -13,114 +13,69 @@ const PrivacyPolicy = () => {
       </div>
       <div>
         <p className="text-default">
-          Sun Hospital Privacy Policy
+          Anilom Privacy Policy
           <br />
           Last Updated: 12/31/2023
-          <br /><br/>
-          1.{' '}
-          <span className="text-baseColor font-semibold">Introduction</span>
           <br />
-          Welcome to Sun Hospital ("we," "our," or "us"). This Privacy Policy is
-          designed to inform you about the types of information we collect, how
-          we use it, and with whom we share it. This Privacy Policy applies to
-          the personal information we collect from patients, visitors,
-          employees, and other individuals who interact with Sun Hospital.
+          <br />
+          1.{' '}
+          <span className="text-baseColor font-semibold">Privacy Policy</span>
+          <br />
+          For us privacy for our valued customer is very important. We strongly
+          believe that the personal information of our customers should not be
+          shared with the third party without the prior consent or request from
+          the customer. Privacy is the right of an individual and at Alms
+          Ecommerce Private Limited the information of the customer such as
+          contact no., email, addresses etc is used only for the internal
+          purpose and not for sale. Your contact information is stored in our
+          database and is only used by Anilom & our NGO partners to contact
+          you with regards to the updates of the campaign, upcoming campaigns,
+          announcements & news . We at Alms Ecommerce Private Limited condemn
+          the unauthorized reach and misuse and/or disclosure of the personal
+          information of the customer and we have strict guidelines and high
+          security features to prevent the same. Any changes in our ‘Privacy
+          Policy’ will be posted here on the website.
+          <br />
           <br />
           2.{' '}
           <span className="text-baseColor font-semibold">
-            Information We Collect
+            Secure Online Payments
           </span>
           <br />
-          We may collect various types of information, including:
+          The visitor on our website please take a note that your name, email
+          address and other personal information submitted on our website may be
+          stored with us and may also appear on the website. Like other
+          platforms our server log files also receives general information such
+          as IP address of the visitor , cookie etc. For the financial
+          transactions by credit card Alms Ecommerce Private Limited uses a 3rd
+          party secure payment gateway provided by “Instamojo” and the credit
+          card details are ‘not stored’ with Alms Ecommerce Private Limited,
+          instead the information is securely stored and encrypted with
+          Visa/MasterCard
           <br />
-          - Personal Information: This includes but is not limited to your
-          name, address, phone number, email address, date of birth, and medical
-          history.
           <br />
-          - Health Information: As a healthcare provider, we collect and
-          maintain records of your medical condition, treatment, and other
-          healthcare-related information.
+          3. <span className="text-baseColor font-semibold">Smart Cookies</span>
           <br />
-          - Payment Information: When you make payments for our services, we
-          collect billing and payment information.
-          <br />
-          - Automatically Collected Information: We may collect information
-          about your use of our website and other online services, including IP
-          addresses, browser types, and browsing patterns.
-          <br />
-          3.{' '}
-          <span className="text-baseColor font-semibold">
-            How We Use Your Information
-          </span>
-          <br />
-          We use the information we collect for the following purposes:
-          <br />
-          - Providing Healthcare Services: To diagnose and treat medical
-          conditions and provide healthcare services to our patients.
-          <br />
-          - Billing and Payment: To process payments, issue invoices, and
-          manage accounts.
-          <br />
-          - Communication: To communicate with you about appointments, test
-          results, and other healthcare-related matters.
-          <br />
-          - Improving Services: To analyze trends, administer and improve
-          our website, and enhance the quality of our services.
-          <br />
-          - Legal Compliance: To comply with legal obligations and respond
-          to legal requests.
-          <br />
+          We use 'Cookies' to keep track of your current shopping session to
+          personalize your experience and so that you may retrieve your shopping
+          cart at any time. 'Cookies' are tiny text files which our Website
+          places on your computer's hard drive to store information about your
+          shopping session and to identify your comput
+          <br /><br/>
           4.{' '}
           <span className="text-baseColor font-semibold">
-            Sharing Your Information
+            Shipping Policy
           </span>
           <br />
-          We may share your information with:
-          <br />
-          - Healthcare Providers: We may share your information with other
-          healthcare providers involved in your treatment.
-          <br />
-          - Business Associates: We may share your information with
-          third-party service providers who assist us in providing healthcare
-          services, billing, and other business operations.
-          <br />
-          - Legal Requirements: We may disclose your information as required
-          by law or in response to legal requests.
-          <br />
-          5.{' '}
-          <span className="text-baseColor font-semibold">
-            Security Measures
-          </span>
-          <br />
-          We take reasonable measures to protect your information from
-          unauthorized access, disclosure, alteration, and destruction. These
-          measures include physical, electronic, and procedural safeguards.
-          <br />
-          6. <span className="text-baseColor font-semibold">Your Rights</span>
-          <br />
-          You have the right to access, correct, or delete your personal
-          information. To exercise these rights, please contact our Privacy
-          Officer using the contact information provided below.
-          <br />
-          7.{' '}
-          <span className="text-baseColor font-semibold">
-            Changes to this Privacy Policy
-          </span>
-          <br />
-          We may update this Privacy Policy periodically. The latest version
-          will be posted on our website with the effective date.
-          <br />
-          8.{' '}
-          <span className="text-baseColor font-semibold">
-            Contact Information
-          </span>
+          We usually ship the product once the campaign gets completed and try and deliver them within a week.Products can be returned within 24 hours from the day of delivery to the partner organization.
+          
           <br />
           <br />
           If you have questions or concerns about this Privacy Policy, please
           contact our Privacy Officer at:
           <br />
           <br />
-          Suneet Kumar Singh
+          Himanshu Khurana
           <br />
           {t('hospital_address')}
           <br />
@@ -129,7 +84,7 @@ const PrivacyPolicy = () => {
           By using our services, you agree to the terms outlined in this Privacy
           Policy.
           <br />
-          Sun Hospital
+          Anilom
         </p>
       </div>
     </div>

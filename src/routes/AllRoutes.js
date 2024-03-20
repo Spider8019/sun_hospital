@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import MainRouteList from '../routes/listOfRoutes'
 import Header from '../layouts/Header'
 import Footer from '../layouts/Footer'
+import Error from '../pages/Error'
 
 const AllRoutes = () => {
   return (
@@ -20,6 +21,7 @@ const AllRoutes = () => {
                 />
               )
             })}
+            <Route path="*" element={<Error />} />
           </Routes>
         </Suspense>
         <Footer />
